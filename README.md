@@ -1,3 +1,10 @@
+A beautifull tesla clone created by react js and redux.
+
+![image](https://user-images.githubusercontent.com/34640475/122670259-b84e0d80-d1de-11eb-9918-9b8017c95d78.png)
+
+![image](https://user-images.githubusercontent.com/34640475/122670273-c56afc80-d1de-11eb-86d8-9bb64884c0e4.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
